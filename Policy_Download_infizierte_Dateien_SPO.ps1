@@ -5,7 +5,8 @@
 # Author: Andre Thiemann
 # Date: February 2026
 # Compatibility: PowerShell 7
-# Required Role: Global Reader or equivalent read-only access
+# Required Role: Global Reader oder eine vergleichbare Rolle zum auslesen.
+#                Global Admin oder eine vergleichbare Rolle zum setzen der Richtlinie.
 #
 ################################################################################
 
